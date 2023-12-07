@@ -1,0 +1,195 @@
+~~ Racer Vehicles ~~
+
+veh_293124_ms          Alfa Romeo 8C
+veh_118940_ms          Alfa Romeo 8C Spyder
+veh_380982_ms          Aston Martin DBS
+veh_383026_ms          Aston Martin DBS Volante
+veh_383527_ms          Aston Martin One-77
+veh_383069_ms          Aston Martin V12 Vantage
+veh_210008_ms          Audi R8 5.2 FSi
+veh_118984_ms          Audi R8 5.2 FSi Spyder
+veh_380028_ms          Audi TT-RS
+veh_383112_ms          Bentley Continental Supersports
+veh_1065045_ms         Bentley Continental Supersports Spyder
+veh_292004_ms          BMW M3 E92
+veh_172756_ms          BMW M6 Convertible
+veh_172966_ms          BMW Z4 345i M-Drive
+veh_118158_ms          Bugatti Veyron 16.4
+veh_380071_ms          Bugatti Veyron 16.4 Grand Sport
+veh_292069_ms          Chevrolet Camaro SS
+veh_380114_ms          Chevrolet Corvette Grand Sport
+veh_380157_ms          Chevrolet Corvette Z06
+veh_380200_ms          Chevrolet Corvette ZR1
+veh_292146_ms          Dodge Challenger
+veh_380286_ms          Dodge Charger SRT-8
+veh_172840_ms          Dodge Viper SRT-10
+veh_172882_ms          Dodge Viper ACR
+veh_1065326_ms         Dodge Viper SRT-10 Convertible Final Edition
+veh_293191_ms          Ford GT
+veh_118454_ms          Ford Shelby GT500 
+veh_380329_ms          Ford Shelby GT500 Super Snake
+veh_383198_ms          Jaguar XKR
+veh_383808_ms          Koenigsegg Agera
+veh_118492_ms          Koenigsegg CCX
+veh_172279_ms          Koenigsegg CCXR
+veh_380415_ms          Lamborghini Gallardo LP550-2 Valentino Balboni
+veh_172321_ms          Lamborghini Gallardo LP560-4
+veh_383249_ms          Lamborghini Gallardo LP560-4 Spyder
+veh_383480_ms          Lamborghini Gallardo LP570-4 Superleggera
+veh_97331_ms           Lamborghini Murcielago LP640
+veh_1065371_ms         Lamborghini Murcielago LP650-4 Roadster
+veh_172363_ms          Lamborghini Murcielago LP670-4 SV
+veh_293008_ms          Lamborghini Reventon
+veh_380501_ms          Lamborghini Reventon Roadster
+veh_380544_ms          Maserati GranCabrio
+veh_380587_ms          Maserati GranTurismo S
+veh_172798_ms          Maserati Quatroporte Sport GT-S
+veh_172670_ms          Mazda RX-8
+veh_172460_ms          Mclaren F1
+veh_172586_ms          Mclaren MP4-12C
+veh_329012_ms          Mercedes-Benz SL65 AMG Black Series
+veh_172502_ms          Mercedes-Benz SLR Mclaren 722
+veh_172544_ms          Mercedes-Benz SLR Stirling-Moss
+veh_380888_ms          Mercedes-Benz SLS AMG
+veh_118530_ms          Mitsubishi Lancer Evo X
+veh_172237_ms          Nissan 370Z
+veh_380931_ms          Nissan 370Z Roadster
+veh_118570_ms          Nissan GTR V-Spec
+veh_380630_ms          Pagani Zonda Cinque
+veh_380673_ms          Pagani Zonda Cinque Roadster
+veh_745251_ms          Pagani Zonda Cinque NFS Edition
+veh_745296_ms          Pagani Zonda Cinque Roadster NFS Edition
+veh_380802_ms          Porsche 911 GT3 RS
+veh_321070_ms          Porsche 911 Targa 4S
+veh_380845_ms          Porsche 911 Turbo S Cabriolet
+veh_383432_ms          Porsche 918 Spyder (Concept Study)
+veh_118196_ms          Porsche Boxster Spyder
+veh_329096_ms          Porsche Carrera GT
+veh_118608_ms          Porsche Cayman S
+veh_329054_ms          Porsche Panamera Turbo
+veh_172714_ms          Subaru Impreza WRX STI
+
+~~ DLC Racer Vehicles ~~
+
+veh_1065267_ms         Apollo S
+veh_1065149_ms         Bugatti Veyron 16.4 Super Sport
+veh_1111099_ms         Lamborghini Countach 5000 QV
+veh_1111287_ms         Lamborghini Diablo SV
+veh_1111150_ms         Lamborghini Sesto Elemento
+veh_1065090_ms         Porsche 911 GT2 RS
+veh_1111494_ms         Porsche 911 Speedster
+veh_1111395_ms         Porsche 911 Turbo (930)
+veh_1111341_ms         Porsche 959
+
+~~ Cut Racer Vehicles ~~
+
+veh_345261_ms          Pagani C9
+veh_459784_ms          Sphere Car
+
+~~ Police Vehicles ~~
+
+veh_383297_ms          Alfa Romeo 8C Police
+veh_529411_ms          Aston Martin DBS Police
+veh_529425_ms          Aston Martin One-77 Police
+veh_383658_ms          Aston Martin V12 Vantage Police
+veh_118889_ms          Audi R8 5.2 FSi Police
+veh_529397_ms          Audi TT-RS Police
+veh_529376_ms          Bentley Continental Supersports Police
+veh_383311_ms          BMW M3 E92 Police
+veh_118240_ms          Bugatti Veyron 16.4 Police
+veh_383155_ms          Carbon Motors E7
+veh_383326_ms          Chevrolet Camaro SS Police
+veh_383749_ms          Chevrolet Corvette Z06 Police
+veh_383756_ms          Chevrolet Corvette ZR1 Police
+veh_383333_ms          Dodge Challenger Police
+veh_383641_ms          Dodge Charger SRT-8 Police
+veh_529453_ms          Dodge Viper SRT-10 Police
+veh_529460_ms          Dodge Viper ACR Police
+veh_380243_ms          Ford Crown Victoria Police Interceptor
+veh_383340_ms          Ford GT Police
+veh_345203_ms          Ford Shelby GT500 Police
+veh_383742_ms          Ford Shelby GT500 Super Snake Police
+veh_380372_ms          Ford Police Interceptor Sedan (Concept)
+veh_383735_ms          Jaguar XKR Police
+veh_529481_ms          Koenigsegg Agera Police
+veh_383242_ms          Koenigsegg CCX Police
+veh_529488_ms          Koenigsegg CCXR Police
+veh_383853_ms          Lamborghini Gallardo LP550-2 Valentino Balboni Police
+veh_383347_ms          Lamborghini Gallardo LP560-4 Police
+veh_529502_ms          Lamborghini Gallardo LP570-4 Superleggera Police
+veh_121050_ms          Lamborghini Murcielago LP640 Police
+veh_383728_ms          Lamborghini Murcielago LP670-4 SV Police
+veh_383354_ms          Lamborghini Reventon Police
+veh_529516_ms          Maserati GranTurismo S Police
+veh_529523_ms          Maserati Quatroporte Sport GT-S Police
+veh_383613_ms          Mazda RX-8 Police
+veh_383361_ms          Mclaren F1 Police
+veh_383425_ms          Mclaren MP4-12C Police
+veh_383714_ms          Mercedes-Benz SL65 AMG Black Series Police
+veh_383375_ms          Mercedes-Benz SLR Mclaren 722 Police
+veh_529537_ms          Mercedes-Benz SLS AMG Police
+veh_383382_ms          Mitsubishi Lancer Evo X Police
+veh_383627_ms          Nissan 370Z Police
+veh_383389_ms          Nissan GTR V-Spec Police
+veh_383707_ms          Pagani Zonda Cinque Police
+veh_383693_ms          Porsche 911 GT3 RS Police
+veh_383396_ms          Porsche 911 Targa 4S Police
+veh_383686_ms          Porsche Carrera GT Police
+veh_383403_ms          Porsche Cayman S Police
+veh_383410_ms          Porsche Panamera Turbo Police
+veh_383620_ms          Subaru Impreza WRX STI Police
+
+~~ DLC Police Vehicles ~~
+
+veh_1065312_ms         Apollo S Police
+veh_1065194_ms         Bugatti Veyron 16.4 Super Sport Police
+veh_1111604_ms         Lamborghini Countach 5000 QV Police
+veh_1111611_ms         Lamborghini Diablo SV Police
+veh_1111597_ms         Lamborghini Sesto Elemento Police
+veh_1065135_ms         Porsche 911 GT2 RS Police
+veh_1111785_ms         Porsche 911 Speedster Police
+veh_1111632_ms         Porsche 911 Turbo (930) Police
+veh_1111618_ms         Porsche 959 Police
+
+~~ Cut Police Vehicles ~~
+
+veh_383651_ms          Alfa Romeo 8C Spyder Police
+veh_529418_ms          Aston Martin DBS Volante Police
+veh_383665_ms          Audi R8 5.2 FSi Spyder Police
+veh_529432_ms          BMW M6 Convertible Police
+veh_383318_ms          BMW Z4 345i M-Drive Police
+veh_383679_ms          Bugatti Veyron 16.4 Grand Sport Police
+veh_529446_ms          Chevrolet Corvette Grand Sport Police
+veh_529509_ms          Lamborghini Gallardo LP560-4 Spyder Police
+veh_383721_ms          Lamborghini Reventon Roadster Police
+veh_529328_ms          Maserati GranCabrio Police
+veh_529530_ms          Mercedes-Benz SLR Stirling-Moss
+veh_383672_ms          Nissan 370Z Roadster Police
+veh_529383_ms          Pagani C9 Police
+veh_383700_ms          Pagani Zonda Cinque Roadster Police
+veh_529551_ms          Porsche 911 Turbo S Cabriolet Police
+veh_529544_ms          Porsche 918 Spyder (Concept Study) Police
+veh_118393_ms          Porsche Boxster Spyder Police
+
+~~ Traffic Vehicles ~~
+
+veh_553409_gr          Audi A3
+veh_210456_gr          Audi A4
+veh_686357_gr          Cadillac CTS
+veh_686399_gr          Chevrolet Cobalt LT
+veh_553768_gr          Chevrolet Express Van
+veh_459267_gr          Ford Shelby GT500 Police
+veh_686663_gr          Dodge Caliber (New)
+veh_686736_gr          Dodge Caliber
+veh_686576_gr          Dodge Caravan
+veh_607177_gr          Dodge RAM
+veh_607689_gr          GMC TopKick
+veh_459298_gr          Infiniti G35
+veh_686914_gr          Nissan Frontier SE
+veh_710030_gr          Nissan Versa
+veh_210620_gr          Porsche Cayenne Turbo
+veh_553384_gr          Porsche Cayenne Police
+
+~~ Cut Traffic Vehicles ~~
+
+veh_553242_gr          Dodge Challenger 1971
